@@ -1,0 +1,32 @@
+/* Wine page
+---------------------------------------------------- */
+.wine-banner {
+  height: 60vh;
+  background-image: url("images/banner.jpeg");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wine-contents {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 24px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.wine-contents h1 {
+  font-size: 48px;
+  margin: 0;
+}
+
+.main-img {
+  width: 30%;
+  position: sticky;
+  top: 100px;
+}
+
+.main-img img {
+  width: 100%;
+}
