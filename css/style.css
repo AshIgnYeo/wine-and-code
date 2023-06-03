@@ -2,7 +2,7 @@
   Additional imported css
   only comment out this line at the end of the workshop
 ---------------------------------------------------- */
-/* @import url("wine.css"); */
+@import url("wine.css");
 
 /*
 Enter your custom styles under here */
